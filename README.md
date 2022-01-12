@@ -98,6 +98,8 @@ else:
     print("Element not found")
 ```
 ## Sample Input and Output
+![sample](./sampleio.jpg)
+## OUTPUT
 LINEAR SEARCH
 ![output](./output1.jpg)
 BINARY SEARCH(iterative method)
